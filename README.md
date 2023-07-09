@@ -5,6 +5,8 @@ The basic calculator is a simple tool that allows users to perform arithmetic ca
 
 To create the basic calculator, I have used HTML, CSS, and JavaScript.
 
+Try this Calculator here : https://rushikeshpol15.github.io/Basic-Calculator/
+
 In HTML, I have structured the calculator's user interface using <div> elements. I have created a <div> to display the input and result, and another set of <div> elements to hold the numeric buttons (0-9) and operator buttons (+  -  *  / ) .
 
 CSS is used to style the calculator and make it visually appealing. 
